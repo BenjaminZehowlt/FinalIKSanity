@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 [assembly: MelonGame("VRChat", "VRChat")]
-[assembly: MelonInfo(typeof(FinalIKSanityMod), "Final IK Sanity", "1.0.5", "Ben")]
+[assembly: MelonInfo(typeof(FinalIKSanityMod), "Final IK Sanity", "1.0.0", "Ben")]
 
 namespace FinalIKSanity
 {
